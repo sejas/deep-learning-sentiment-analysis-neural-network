@@ -2909,7 +2909,7 @@ show(p)
 ```
 
 
-
+![png](images/vector-space.png)
 
 
 
